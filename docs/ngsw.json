@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1672882746694,
+  "index": "Station7/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "Station7/favicon.ico",
+        "Station7/index.html",
+        "Station7/main.e78c8d9ddc2b7c09.js",
+        "Station7/manifest.webmanifest",
+        "Station7/polyfills.29ed02f8cc05f20a.js",
+        "Station7/runtime.02ab0ebbacfcc06e.js",
+        "Station7/scripts.651f3677503ec340.js",
+        "Station7/styles.7750b34ca541e2a2.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "Station7/assets/icons/icon-128x128.png",
+        "Station7/assets/icons/icon-144x144.png",
+        "Station7/assets/icons/icon-152x152.png",
+        "Station7/assets/icons/icon-192x192.png",
+        "Station7/assets/icons/icon-384x384.png",
+        "Station7/assets/icons/icon-512x512.png",
+        "Station7/assets/icons/icon-72x72.png",
+        "Station7/assets/icons/icon-96x96.png",
+        "Station7/assets/img/3abnen.png",
+        "Station7/assets/img/3abnlatino.png",
+        "Station7/assets/img/exitosa.png",
+        "Station7/assets/img/nuevotiempo.png",
+        "Station7/assets/img/principalicons/Biblia.jpg",
+        "Station7/assets/img/principalicons/Devocionales.jpg",
+        "Station7/assets/img/principalicons/EESS.jpg",
+        "Station7/assets/img/principalicons/EGW.jpg",
+        "Station7/assets/img/principalicons/IASD.jpg",
+        "Station7/assets/img/principalicons/Noticias.jpg",
+        "Station7/assets/img/principalicons/Radio.jpg",
+        "Station7/assets/img/principalicons/TV.jpg",
+        "Station7/assets/img/radiologo.png",
+        "Station7/assets/img/rpp.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "Station7/assets/icons/icon-128x128.png": "b1855f0e8de66aa1b9826a17032bb66406faf4a2",
+    "Station7/assets/icons/icon-144x144.png": "f5694006e8a9c6f58a024b0e6e5e5a1b412bdc34",
+    "Station7/assets/icons/icon-152x152.png": "1253371f94c6f39263a6d11827759c0da57b0eeb",
+    "Station7/assets/icons/icon-192x192.png": "9274300ea5e23273e15ad9a6aca93360c272111d",
+    "Station7/assets/icons/icon-384x384.png": "74be078bc9af53f8a5b9a6be3444d038fe84a6fe",
+    "Station7/assets/icons/icon-512x512.png": "a39e065418c3f0ec1a088748cad9533372df2a37",
+    "Station7/assets/icons/icon-72x72.png": "8f1ed5fa075a9559cf51e714ea2870f7468ac21d",
+    "Station7/assets/icons/icon-96x96.png": "a8ae4265feb3c7c49a76d10f7a5ecd1990508b66",
+    "Station7/assets/img/3abnen.png": "aeba86576243342a5a366b1dd1baedb69e886938",
+    "Station7/assets/img/3abnlatino.png": "fae5f49eb3fa7544280ee426ef97dc3a6787c5b2",
+    "Station7/assets/img/exitosa.png": "3cbd65db6502fa28d00ef9de362c703a985c095a",
+    "Station7/assets/img/nuevotiempo.png": "a1d9052ea6fa443e4223c59327390538763f1cbe",
+    "Station7/assets/img/principalicons/Biblia.jpg": "c9a2eeaa49cd47fe3204334387b63d564f11e1b4",
+    "Station7/assets/img/principalicons/Devocionales.jpg": "8ea67acefb893d10601e2e12dfabdd07cd30fc2d",
+    "Station7/assets/img/principalicons/EESS.jpg": "5c745b1c509e08e92ec6e019d7f8aa0864887665",
+    "Station7/assets/img/principalicons/EGW.jpg": "f127d8b4de4beb3a7d947f27217e9ddb9498090e",
+    "Station7/assets/img/principalicons/IASD.jpg": "8e0d985fdf16b5ba763229d9db0026b609194447",
+    "Station7/assets/img/principalicons/Noticias.jpg": "be415497de68c4c6f5cd4c67282a5396159ea291",
+    "Station7/assets/img/principalicons/Radio.jpg": "73c150eeef48e20862f0ca6e2a995a61ebc835eb",
+    "Station7/assets/img/principalicons/TV.jpg": "c04f0b127a8f2a01d36d8ad622e86df6e38ce7fd",
+    "Station7/assets/img/radiologo.png": "84ad2dccd6868a5eb1c89002ffaa68b66efea3ba",
+    "Station7/assets/img/rpp.png": "1c790472d01fbf226a88aa7b71ff9fcd450b96a3",
+    "Station7/favicon.ico": "9738726c68fb451afdb95e4513bff828e303c37c",
+    "Station7/index.html": "183e3611950ec6f10e9eae2abbd58dd4020c316b",
+    "Station7/main.e78c8d9ddc2b7c09.js": "fd77cdc23ec30610a6d90ea80db29ccacac780c5",
+    "Station7/manifest.webmanifest": "a88f0b850c94d0dd82d10ea68adba1a78fd2d0b4",
+    "Station7/polyfills.29ed02f8cc05f20a.js": "cef4c0c1c79eb816a5cb66272453b96a004ebb81",
+    "Station7/runtime.02ab0ebbacfcc06e.js": "06e640fbcd0e688cdf5dc1a13e765c02e29bc0c7",
+    "Station7/scripts.651f3677503ec340.js": "74329cdfcab08b25a1d3b6d73df56d28b36e0dfd",
+    "Station7/styles.7750b34ca541e2a2.css": "fba687fcf527da298b0a5158bd2c549dab2caa23"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
